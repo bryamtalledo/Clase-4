@@ -1,0 +1,29 @@
+/*no respeta el alto y ancho*/
+section a{
+    width: 150px;
+    height: 150x;
+    border:5px solid red;
+}
+
+article{
+    background-color: #ffdd1c;
+    height: 100px;
+}
+
+.articulo2{
+    height: 400px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer a{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 2px solid green
+
+
+}

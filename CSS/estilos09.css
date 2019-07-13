@@ -1,13 +1,13 @@
 /* root hace referencia a html */
 :root{
---amarillo: #fd1c;
---verde : #00af50
+    --amarillo: #ffdd1c;
+    --verde : #00af50;
 }
 
 h3{
-    color: var(--amarillo)
+    color: var(--amarillo);
 }
 
 a{
-    color: var(--verde)
+    color: var(--verde);
 }

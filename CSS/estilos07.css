@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+section ,  article{
+ width: 100vw;
+ height: 50vh;
+
+}
+section{
+    background-color: #ffdd1c;
+}
+
+article {
+    background-color: #e33245;
+}

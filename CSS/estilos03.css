@@ -1,0 +1,10 @@
+html{
+    font-size: 16px;
+}
+h1{
+    /* el rem es equivalente a la etiqueta madre (html) por eso es bueno siempre darl un valor */
+    font-size: 2rem; /* 1rem= 16px, 2rem=32px */ 
+}
+span{
+    font-size: 1rem
+}

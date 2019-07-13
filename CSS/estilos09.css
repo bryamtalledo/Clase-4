@@ -1,0 +1,13 @@
+/* root hace referencia a html */
+:root{
+--amarillo: #fd1c;
+--verde : #00af50
+}
+
+h3{
+    color: var(--amarillo)
+}
+
+a{
+    color: var(--verde)
+}

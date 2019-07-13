@@ -1,0 +1,29 @@
+h1{
+    color: tomato;  /* color pre definido */
+}
+h3{
+    color: #ffdd1c; /* color hexadecimal */
+}
+
+.articulo01 p{
+    color: rgb(255, 0, 0);
+}
+
+.articulo01 a{
+    /* 
+    h= hue //tono //0 - 360
+    s= saturation //saturacion // 0%-100%
+    l= lightness //luminusidad // 0%-100%
+    */
+    color: hsl( 120, 50%, 50%);
+}
+
+.articulo02 p{
+    color: rgba(0, 0, 255, 0.5) /* color con transparencia */
+}
+
+
+
+.articulo02 a{
+    color: hsla(120, 50%, 50%, 0.5)
+}
